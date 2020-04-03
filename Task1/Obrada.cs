@@ -78,7 +78,9 @@ namespace Task1
                     greenGamma[cGamma.G], blueGamma[cGamma.B]));
                 }
             }
+
             return b;
+
         }
     }
 }
